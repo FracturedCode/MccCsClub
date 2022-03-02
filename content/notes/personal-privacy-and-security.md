@@ -107,6 +107,7 @@ This is very personal and can change over time. For example, a journalist in the
 ### Some more advanced things:
 - Using Multi-Factor Authentication wherever possible
 - Looking through the privacy settings of the apps and services you use
+- [Browser hardening](https://github.com/arkenfox/user.js/wiki/1.1-to-arkenfox-or-not) (firefox recommended)
 - Self-hosting your own services
 ![Picture of a yubikey](/notes/images/yubikey.png)
 <figcaption>A yubikey, a hardware security key that can aid in MFA. This can be the "something you have" part of "good security."</figcaption>
