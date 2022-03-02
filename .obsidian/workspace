@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "6fa71d66fa257172",
+    "type": "split",
+    "children": [
+      {
+        "id": "064e6ac311c41591",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/notes/personal-privacy-and-security.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ac3f311b98d3684",
+    "type": "split",
+    "children": [
+      {
+        "id": "759023444c40e4b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c6b61d35f5b2ac4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a9d4b19b7ae7447",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2164681bbb5e47fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7789f5d93278caf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aed83f096893c7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/notes/personal-privacy-and-security.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "064e6ac311c41591",
+  "lastOpenFiles": [
+    "content/notes/personal-privacy-and-security.md",
+    "content/_index.md",
+    "content/notes/images/Pasted.md",
+    "images.md",
+    "content/notes/images/Pastedimage20220302145304.png",
+    "content/private/private-note.md",
+    "content/templates/post.md",
+    "content/notes/custom Domain.md"
+  ]
+}
