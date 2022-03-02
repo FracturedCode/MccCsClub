@@ -1,26 +1,11 @@
 ---
-title: 🪴 Quartz 3.1
+title: 💻 MCC Computer Science Club
 ---
-Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
-1. Extremely fast full-text search by pressing `/`
-2. Display for backlinks of each note
-3. Fully customizable local graph view
-4. Endlessly powerful page and theme customization using CSS
-5. Automatically generated tag and section lists of content
-6. Beautiful link previews
+### Upcoming meeting March 2, 2022 @ 5pm MST.
+#### [Join Here](https://tinyurl.com/CSCclubMeet)
+![Upcoming Meeting](MCC_COmputer_Science_Club.png)
 
-## Get Started
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
+### [Notes from our last meeting](notes/personal-privacy-and-security.md)
+<iframe src="notes/personal-privacy-and-security.md" width="100%"></iframe>
 
-Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with!
-
-## Content Lists
-If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
-
-- [All Notes](/notes)
-- [Setup-related Notes](/tags/setup)
-
-## Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+[Read all past meetings](/notes)
