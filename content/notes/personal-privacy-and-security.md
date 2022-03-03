@@ -1,5 +1,5 @@
 ---
-title: "Personal Privacy and Security"
+title: Personal Privacy and Security
 ---
 ## Why does it matter?
 ### From [privacyguides.org](https://privacyguides.org):
