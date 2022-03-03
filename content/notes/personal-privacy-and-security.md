@@ -103,7 +103,7 @@ This is very personal and can change over time. For example, a journalist in the
 -   Use a password manager to automate your use of separate passwords for every website.
 -   Update your software whenever alerted to do so; turn on automatic updates.
 
-![keepassxc-logo.svg](images/keepassxc-logo.svg)
+![keepassxc-logo.svg](notes/images/keepassxc-logo.svg)
 <figcaption><a href="https://keepassxc.org">KeePassXC</a>, my favorite password manager</figcaption>
 
 ### Some more advanced things:
