@@ -102,12 +102,15 @@ This is very personal and can change over time. For example, a journalist in the
 -   Back up your stuff to the cloud or a disk drive you detach from your device.
 -   Use a password manager to automate your use of separate passwords for every website.
 -   Update your software whenever alerted to do so; turn on automatic updates.
+-   
 ![keepassxc-logo.svg](/notes/images/keepassxc-logo.svg)
 <figcaption><a href="https://keepassxc.org">KeePassXC</a>, my favorite password manager</figcaption>
+
 ### Some more advanced things:
 - Using Multi-Factor Authentication wherever possible
 - Looking through the privacy settings of the apps and services you use
 - [Browser hardening](https://github.com/arkenfox/user.js/wiki/1.1-to-arkenfox-or-not) (firefox recommended)
 - Self-hosting your own services.
+
 ![Picture of a yubikey](/notes/images/yubikey.png)
 <figcaption>A yubikey, a hardware security key that can aid in MFA. This can be the "something you have" part of "good security."</figcaption>
