@@ -4,7 +4,7 @@
       "/": [
         {
           "source": "/",
-          "target": "/notes/personal-privacy-and-security",
+          "target": "/notes/intro-to-git",
           "text": "Notes from our last meeting"
         },
         {
@@ -22,10 +22,10 @@
           "text": "Read all past meetings"
         }
       ],
-      "/notes/personal-privacy-and-security": [
+      "/notes/intro-to-git": [
         {
           "source": "/",
-          "target": "/notes/personal-privacy-and-security",
+          "target": "/notes/intro-to-git",
           "text": "Notes from our last meeting"
         }
       ]
@@ -34,7 +34,7 @@
   "links": [
     {
       "source": "/",
-      "target": "/notes/personal-privacy-and-security",
+      "target": "/notes/intro-to-git",
       "text": "Notes from our last meeting"
     },
     {
