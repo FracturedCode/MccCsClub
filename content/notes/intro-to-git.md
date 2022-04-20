@@ -1,3 +1,6 @@
+---
+title: Intro to git
+---
 # Git Meeting Notes
 
 ## Introduction

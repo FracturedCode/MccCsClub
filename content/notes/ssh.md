@@ -1,3 +1,6 @@
+---
+title: SSH
+---
 Join the club discord:
 [urlsl.me/ClubDiscord](https://urlsl.me/ClubDiscord)
 ## What is SSH?
