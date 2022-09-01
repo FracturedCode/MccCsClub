@@ -2,10 +2,7 @@
 title: 💻 MCC Computer Science Club
 ---
 # Upcoming meeting September 1, 2022 @ 4pm
-![Upcoming Meeting](MCC_COmputer_Science_Club.png)
-
-# Join the discord
-[urlsl.me/ClubDiscord](https://urlsl.me/ClubDiscord)
+![Upcoming Meeting](MCC_Computer_Science_Club_Kickoff.png)
 
 # Meeting Schedule
 
@@ -15,17 +12,21 @@ In general:
 Every other week there is an in person meeting at 4pm. 
 On the off-weeks there is a more informal online meeting at 4pm.
 
-Sept 1 - Kickoff event
-Sept 9 - Leetcode (Friday meeting)
-Sept 15 - Git meeting
-Sept 29 - UNIX commands
-Oct 7 - Git command line (Friday meeting)
-Oct 13 - Tool assisted debugging
-Oct 27 - Field trip
-Nov 10 - Guest speaker
-Dec 8 - Chill meeting
+- Sept 1 - Kickoff event
+- Sept 9 - Leetcode (Friday meeting)
+- Sept 15 - Git meeting
+- Sept 29 - UNIX commands
+- Oct 7 - Git command line (Friday meeting)
+- Oct 13 - Tool assisted debugging
+- Oct 27 - Field trip
+- Nov 10 - Guest speaker
+- Dec 8 - Chill meeting
 
 Possible second guest speaker
+
+# [Join the discord](https://urlsl.me/ClubDiscord)
+
+We post announcements, conduct Friday meetings, chat and share computer science memes here.
 
 # [Read some past meetings' notes](/notes)
 (Sometimes I forget to add them.)
