@@ -4,13 +4,8 @@
       "/": [
         {
           "source": "/",
-          "target": "/notes/intro-to-git",
-          "text": "Notes from our last meeting"
-        },
-        {
-          "source": "/",
           "target": "/notes",
-          "text": "Read all past meetings"
+          "text": "Read some past meetings' notes"
         }
       ]
     },
@@ -19,14 +14,7 @@
         {
           "source": "/",
           "target": "/notes",
-          "text": "Read all past meetings"
-        }
-      ],
-      "/notes/intro-to-git": [
-        {
-          "source": "/",
-          "target": "/notes/intro-to-git",
-          "text": "Notes from our last meeting"
+          "text": "Read some past meetings' notes"
         }
       ]
     }
@@ -34,13 +22,8 @@
   "links": [
     {
       "source": "/",
-      "target": "/notes/intro-to-git",
-      "text": "Notes from our last meeting"
-    },
-    {
-      "source": "/",
       "target": "/notes",
-      "text": "Read all past meetings"
+      "text": "Read some past meetings' notes"
     }
   ]
 }
