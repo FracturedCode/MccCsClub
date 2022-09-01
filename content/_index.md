@@ -1,13 +1,13 @@
 ---
 title: 💻 MCC Computer Science Club
 ---
-## Upcoming meeting September 1, 2022 @ 4pm MST.
+# Upcoming meeting September 1, 2022 @ 4pm MST.
 ![Upcoming Meeting](MCC_COmputer_Science_Club.png)
 
-## Join the discord
+# Join the discord
 [urlsl.me/ClubDiscord](https://urlsl.me/ClubDiscord)
 
-## Meeting Schedule
+# Meeting Schedule
 
 [View the calendar](https://urlsl.me/ghfka). You must be signed into your MCC email.
 
@@ -27,8 +27,8 @@ Dec 8 - Chill meeting
 
 Possible second guest speaker
 
-## [Read some past meetings' notes](/notes)
+# [Read some past meetings' notes](/notes)
 (Sometimes I forget to add them.)
 
-## [Club Constitution](https://docs.google.com/document/d/1lZO2jBUXkcTIfpte7BVjmC_MuQbltA7kBvud9YrpWcM/edit?usp=sharing)
+# [Club Constitution](https://docs.google.com/document/d/1lZO2jBUXkcTIfpte7BVjmC_MuQbltA7kBvud9YrpWcM/edit?usp=sharing)
 Sign into your MCC email.
