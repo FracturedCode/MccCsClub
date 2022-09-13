@@ -2,7 +2,7 @@
 title: 💻 MCC Computer Science Club
 ---
 # Upcoming meeting September 1, 2022 @ 4pm
-![Upcoming Meeting](MCC_Computer_Science_Club_Kickoff.png)
+![Upcoming Meeting](gitcsclub.png)
 
 # Meeting Schedule
 
